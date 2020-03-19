@@ -1,6 +1,8 @@
-# Datasette for CSV files
+# Datasette for Protein [6NB8](https://www.rcsb.org/structure/6NB8)
 
 Drag and drop any CSV files you like to this project root and they will be converted into a SQLite database and loaded into a Datasette instance.
+
+This is a Datasette for the 6NB8 protein which is mirrored [here](https://github.com/Cov19/Protien-6NB8-Mirrror) for the purpose of genomic researchers in order to be actively engaged and quickly run a datasette for such data. You can find the data source and the structure for the data [here](https://www.rcsb.org/structure/6NB8)
 
 Hit this Remix button to get your own copy of this project:
 
